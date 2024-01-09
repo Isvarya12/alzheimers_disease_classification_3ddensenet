@@ -1,5 +1,12 @@
 # Brain MRI Classification using 3D DenseNet121 Architecture
-
+A 3D DenseNet model for Alzheimer's disease detection is an advanced approach in the 
+field of medical imaging and machine learning. This model leverages a neural network architecture 
+called DenseNet and applies it to three-dimensional (3D) medical imaging data, often derived from 
+brain scans like MRI (Magnetic Resonance Imaging).
+Alzheimer's Disease is a progressive neurodegenerative condition affecting millions of 
+people worldwide. Early and accurate diagnosis is crucial for effective treatment and management. 
+3D DenseNet models provide a sophisticated tool to aid in this diagnosis by analyzing 3D brain 
+images.
 ## Overview
 This project focuses on classifying brain MRI images into categories of Alzheimer's Disease (AD), Control (CN), and Mild Cognitive Impairment (MCI) using a 3D DenseNet121 architecture. The dataset utilized for this classification task is the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset.
 
